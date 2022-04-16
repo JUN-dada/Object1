@@ -30,9 +30,8 @@ public class StudentComputer
         student03.coputer=c3;
 
         student01.study();
-
-
-
+        student02.study();
+        student03.study();
 
     }
     int studentID;
